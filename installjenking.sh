@@ -1,4 +1,7 @@
 #! /bin/bash
+# chmod +x installjenkin.sh
+# sh installjenking.sh
+
 sudo apt-get update 
 sudo apt-get install -y openjdk-11-jdk
 sudo apt-get install -y git maven
